@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: blanchedalmond;
+}
+h1{
+    color: blueviolet;
+    margin-left: 20px;
+    background-color: aquamarine;
+    width: 400px;
+    
+}
+form{
+    border: solid green 5px;
+    margin-top: 20px;      
+    margin-left: 20px;
+    width: 400px;
+    padding: 10px 10px;
+    
+}
